@@ -5,18 +5,16 @@ source_metadata:
   title: ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་མཆན་ཉི་མའི་འོད་ཟེར།
   author: ''
   volumes:
-    bdc8f08942384be99159b92f10ac93d9:
+    95601c548abe49a99a4dd9d19104e934:
       image_group_id: I4PD296
-      title: Volume 1 of chos mngon pa'i mdzod kyi 'grel mchan nyi ma'i 'od zer/
+      title: ''
       volume_number: 1
       total_pages: 644
-      base_file: v001.txt
-    90efda5c60374294bf3ba91aa74bcc02:
+    787b508240834c35a6be9578558ec255:
       image_group_id: I4PD297
-      title: Volume 2 of chos mngon pa'i mdzod kyi 'grel mchan nyi ma'i 'od zer/
+      title: ''
       volume_number: 2
       total_pages: 632
-      base_file: v002.txt
 ebook_metadata:
   title: ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་མཆན་ཉི་མའི་འོད་ཟེར།
   author: ''
